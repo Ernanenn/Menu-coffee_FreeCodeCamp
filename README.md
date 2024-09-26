@@ -10,7 +10,7 @@ This file contains the basic structure of the website, including the menu items,
 * Articles: Each menu item is wrapped in an article with the class item. It includes the flavor/dessert name and price.
 * Footer: Contains a link to the cafe's website (FreeCodeCamp) and the cafe address.
 
-#CSS (styles.css)
+# CSS (styles.css)
 This file defines the styling of the website elements.
 * Body: Sets background image, font family, and padding.
 * Headings: Defines font sizes, margin, and text-align.
